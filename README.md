@@ -1,9 +1,17 @@
-# Penguin Analysis
-I love penguins!
-A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
+# Baller
+I love baller!
+A reproducible analysis of morphological measurements from the baller baller dataset, examining variation in body dimensions across baller species in the baller Archipelago, Ballerania.
 
-<img src="" width=50%>
-
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
+<img src="https://ih1.redbubble.net/image.4949554905.7658/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" width=50%>
 
 ## About the Data
 
