@@ -2,6 +2,7 @@
 I love penguins!
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
+<img src="https://image-cdn.essentiallysports.com/wp-content/uploads/20210116131102/Butler-4.jpg" width=50%>
 <img src="https://simg.nicepng.com/png/small/439-4398543_fortnite-gold-scar-scar-fortnite.png" width=50%>
 
 
