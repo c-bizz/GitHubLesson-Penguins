@@ -2,7 +2,7 @@
 I love penguins!
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
-<img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
+<img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fback-in-late-season-2-early-season-3-i-would-take-a-v0-g5wvo8akvzh31.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3D62488c3bb4f31da4466a1176bad463e7b8013ffb" width=50%>
 
 
 ## About the Data
